@@ -1,0 +1,110 @@
+UNIX/Linux
+
+Java developer
+Python
+Devops====>Linux
+Hadoop===>Linux
+Tester===>Linux
+Developer===>Linux
+PL/SQL, Oracle DBA===>Linux
+
+
+90% of real time application ===> Linux Platform
+
+What is UNIX?
+-------------
+
+It is an Operating system created in 1960's.
+
+with lot of extensions and improvements to base version, several falvours introduced by organisations/companies (RedHat Linux, Ubuntu, Suse....)
+
+Chracterstics of UNIX:
+----------------------
+1. It is Freeware
+2. It is Open source software
+   It is FOSS(Freeware and Open source Software)
+3. It is multi user operating system
+4. Is is multi tasking operating system
+5. It is user friendly and supports both cui based and gui based
+   CUI===>Chracter user interface
+   GUI===>Graphical user interface
+6. It is more secure than windows operating system
+
+Flavours of UNIX:
+-----------------
+As UNIX is open source operating system, multiple flavours are available with lot of extension and improvements.
+
+Ubuntu
+RedHat Linux
+CentOs
+Fedora
+Slackware
+Open solaries
+Kali
+Suse Linux Enterprise Server(SLES)
+Open Suse
+POPOS
+
+Components of UNIX:
+-------------------
+2 important Components
+    Shell
+    Kernel
+
+1. shell:
+---------
+    * It is a OuterLayer of the unix operating system.
+    * Shell read the command provided by user.
+    * Shell will check whether is it valid command or not.
+    * Shell will check whether is it properly used or not.
+    * If everything is proper, then shell interprets/converts that command into kernel understandable form and handover that to the kernel.
+    * Shell Acts as interfce between user and kernel. 
+
+2. Kernel:
+----------
+    * It is the core component of UNIX operating system.
+    * It is responsible to execute our command with the help of hardware components.
+    * Memory allocation and processor allocation will take care by kernel.
+    * It acts as interface between shell and hardware components.
+
+To do a big task
+-----------------
+multiple commands
+
+
+command Execution Flow:
+-----------------------
+
+normal user ===> $ prompt
+super user/root user/admin user ===> # prompt
+
+
+sudo -i ===> To Switch to super user
+Exit ===> Logout
+
+Online UNIX Terminal:
+---------------------
+https://www.masswerk.at/jsuix
+
+
+The most commonly used basic commands:
+--------------------------------------
+1. pwd --> print working directory.
+2. ls --> list out all files and directories.
+3. mkdir --> To create/make a directory.
+4. cd ---> Change directory.
+5. touch ---> To create an empty file.
+6. rmdir ---> To remove a directory.
+7. rm ---> To remove a file.
+8. cal ---> Display current Month calendar.
+9. date ---> Display Current date and time.
+10. help ---> To Display list of available commands.
+11. clear ---> to clear Terminal.
+12. exit ---> To logout session.
+13. hello --> To Display brief system info. 
+
+
+
+
+
+
