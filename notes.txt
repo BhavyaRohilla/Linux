@@ -101,10 +101,76 @@ The most commonly used basic commands:
 10. help ---> To Display list of available commands.
 11. clear ---> to clear Terminal.
 12. exit ---> To logout session.
-13. hello --> To Display brief system info. 
+13. hello --> To Display brief system info.
+
+user home directory for guest : /home/guest
 
 
+What is UNIX?
+     OS
+Feature of UNIX
+    FW
+    OSS
+    Multiuser
+    Multitasking
+    More secure 
+    Supports Both GUI and CUI
+
+Flavours of UNIX
+Components Of Linux
+Command execution Flow
+Basic command With Online editor
+
+Topic-2: Linux File system
+--------------------------
+
+Types of files in Linux:
+------------------------
+In python everything is treated as an object.
+In Linux everything is treated as a file
+
+1. Normal files or ordinary files
+2. Directory files
+3. Devices Files 
 
 
+1. Normal files or ordinary files :
+-----------------------------------
+
+These files contain data. It can be normal text file or binary files(images, video, audio files)
+
+abc.txt
+test.sh ===> Script File
+test.py ===> Python File
+test.java ===> Java File
+index.jpg
+video.mp4
 
 
+In Linux file extension is not important. based on our content the linux can identify file type.
+
+2. Directory Files :
+--------------------
+These files represents directories
+In windows, we can use folder terminology but in linux we can use directory terminology.
+directory contains files and subdirectories also.
+
+
+3. Device file :
+----------------
+In Linux every device is represent as a file
+By using that file we can communicate with device.
+Inside /dev directory all device related files will be there.
+
+terminal ===> file
+terminal 1 ===> /dev/pts/0
+terminal 2 ===> /dev/pts/1
+
+Note:
+ctrl+alt+t ===> To open terminal
+ctrl+d ====> To Close the terminal
+
+How to Check file type :
+------------------------
+IN Ubuntu
+blue colour files represent: directories remaining: ordinary file
